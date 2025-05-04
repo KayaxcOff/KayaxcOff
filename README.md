@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KayaxcOff
-- 👀 I’m interested in write codes
+- 👀 I’m interested in read comics and manga
 - 🌱 I’m currently learning Python, C++, Java, HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on AI projects
+- 💞️ I’m looking to collaborate on AI projects 💞
 - 📫 How to reach me is maybe Instagram, X or TikTok
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I'm good at math
