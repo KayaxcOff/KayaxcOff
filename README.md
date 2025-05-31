@@ -28,9 +28,9 @@ I'm passionate about software development, especially in:
 
 ### 📫 How to Reach Me
 - Email: muham123cak@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/muhammet-kaya-bb789035b/)
-- Instagram: (https://www.instagram.com/muh_kaya1/)
-- X: (https://x.com/MuhammetKY12)
+- LinkedIn: [Linkledin](https://www.linkedin.com/in/muhammet-kaya-bb789035b/)
+- Instagram: [Instagram](https://www.instagram.com/muh_kaya1/)
+- X: [X(Twitter)](https://x.com/MuhammetKY12)
 
 
 ---
