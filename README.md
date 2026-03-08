@@ -1,39 +1,61 @@
-## 👋 About Me
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Hi+I'm+Muhammet+Kaya;Junior+Developer;Machine+Learning+Enthusiast;Web+Developer" />
+</p>
 
-Hi there! I'm Muhammet Kaya — a 19-year-old Computer Programming student based in Istanbul, Türkiye.  
-I'm passionate about software development, especially in:
+# 👋 Hi, I'm Muhammet Kaya
 
-- 🤖 Artificial Intelligence (AI)
+I'm a **Computer Programming student from Türkiye** who enjoys building software and learning new technologies.
+
+I consider myself a **junior developer** who is constantly learning, experimenting, and improving my skills.
+
+---
+
+# 🚀 Currently Focusing On
+
+- 🤖 Machine Learning & Deep Learning
 - 🌐 Web Development
 - 🎮 Game Development
 
 ---
 
-### 💻 Languages & Technologies
-- 🐍 Python
-- ☕ Java
-- 💻 C++
-- 🔧 Go
-- 🕸️ HTML, CSS
-- ⚙️ JavaScript
+# 🛠 Technologies I Use
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+🦀 Planning to learn **Rust** soon.
 
 ---
 
-### 📜 Certifications
-- [Java Certificate](https://drive.google.com/file/d/1oKxc84v7nv3SIoNOUw0wyE9kvwUG8XEx/view?usp=drive_link)
-- [C++ Certificate](https://drive.google.com/file/d/1sb5xpWIRz4obqiEK6G4upm_MGhedbnvl/view?usp=drive_link)
-- [AI Certificate](https://drive.google.com/file/d/1WSQcYJS0ddfNdBdfgawfDDfFJxJmzviF/view?usp=drive_link)
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muham123cak&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muham123cak&layout=compact&theme=tokyonight)
 
 ---
 
-### 📫 How to Reach Me
-- Email: muham123cak@gmail.com
-- LinkedIn: [Linkledin](https://www.linkedin.com/in/muhammet-kaya-bb789035b/)
-- Instagram: [Instagram](https://www.instagram.com/muh_kaya1/)
-- X: [X(Twitter)](https://x.com/MuhammetKY12)
+# 📫 Contact
 
+📧 Email  
+muham123cak@gmail.com
+
+💼 LinkedIn  
+https://www.linkedin.com/in/muhammet-kaya-bb789035b/
+
+🐦 X  
+https://x.com/KayaxcOff
+
+📷 Instagram  
+https://www.instagram.com/kayaxcoff
 
 ---
 
-<!-- Optional GitHub Stats -->
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammetkaya&show_icons=true&theme=radical) -->
+![](https://komarev.com/ghpvc/?username=muham123cak&color=blue)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muham123cak&theme=tokyo-night)
