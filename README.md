@@ -61,7 +61,7 @@ class Muhammet:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayaxcOff&layout=compact&theme=tokyonight&border_color=00FFD1&bg_color=0d1117&title_color=00FFD1&text_color=c9d1d9" />
+
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KayaxcOff&theme=tokyo-night&bg_color=0d1117&color=00FFD1&line=00FFD1&point=ffffff&area=true&hide_border=false" />
 
