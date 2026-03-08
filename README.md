@@ -13,7 +13,7 @@
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=muham123cak&show_icons=true&theme=tokyonight&border_color=00FFD1&bg_color=0d1117&title_color=00FFD1&icon_color=00FFD1&text_color=c9d1d9&hide_border=false&rank_icon=github" />
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=KayaxcOff&show_icons=true&theme=tokyonight&border_color=00FFD1&bg_color=0d1117&title_color=00FFD1&icon_color=00FFD1&text_color=c9d1d9&hide_border=false&rank_icon=github" />
 
 ### `whoami`
 
@@ -61,9 +61,9 @@ class Muhammet:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muham123cak&layout=compact&theme=tokyonight&border_color=00FFD1&bg_color=0d1117&title_color=00FFD1&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayaxcOff&layout=compact&theme=tokyonight&border_color=00FFD1&bg_color=0d1117&title_color=00FFD1&text_color=c9d1d9" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muham123cak&theme=tokyo-night&bg_color=0d1117&color=00FFD1&line=00FFD1&point=ffffff&area=true&hide_border=false" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KayaxcOff&theme=tokyo-night&bg_color=0d1117&color=00FFD1&line=00FFD1&point=ffffff&area=true&hide_border=false" />
 
 </div>
 
@@ -84,7 +84,7 @@ class Muhammet:
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=muham123cak&color=00FFD1&style=flat-square&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=KayaxcOff&color=00FFD1&style=flat-square&label=profile+views)
 
 ```
 // thanks for stopping by  ░▒▓█▓▒░
