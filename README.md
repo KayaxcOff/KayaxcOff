@@ -15,6 +15,8 @@
 
 <img align="right" width="380" src="https://github-readme-stats-fast.vercel.app/api?username=KayaxcOff&show_icons=true&theme=tokyonight&border_color=00FFD1&bg_color=0d1117&title_color=00FFD1&icon_color=00FFD1&text_color=c9d1d9&hide_border=false&rank_icon=github" />
 
+---
+
 ### `whoami`
 
 ```python
